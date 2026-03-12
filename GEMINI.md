@@ -102,3 +102,4 @@ O site deve refletir a integração com estas ferramentas:
 2. **MVP v1.1:** Integração com formulário de diagnóstico e automação de WhatsApp.
 3. **MVP v1.2:** Dashboard de Analytics de cliques para o proprietário (Renan).
 
+As tabelas da base de dados deste projeto devem ter o prefixo web_

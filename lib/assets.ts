@@ -3,7 +3,11 @@
  * Substitua os caminhos locais pelas URLs geradas após o upload no Vercel Blob.
  */
 export const ASSETS = {
-  // HERO VIDEO
+  // HERO IMAGES
+  HERO_DESKTOP: '/img/hero.png',
+  HERO_MOBILE: '/img/herom.png',
+  
+  // HERO VIDEO (Legacy)
   HERO_VIDEO: 'https://srsj1mumwmo8dpcm.public.blob.vercel-storage.com/hero_web.mp4', 
   
   // LOGOS
